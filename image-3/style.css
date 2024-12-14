@@ -1,0 +1,45 @@
+body {
+    font-family: sans-serif ;
+}
+
+h2 {
+    color: blue;
+}
+
+h2 span {
+    color: orange;
+    text-decoration: underline;
+}
+
+h3 span {
+    color: orange;
+}
+
+h3 mark {
+    text-decoration: underline;
+}
+
+ul span {
+    color: red;
+    text-decoration: underline;
+    font-weight: bold;
+}
+
+li {
+    color: blue;
+}
+
+ul li:first-child {
+    color: blue;
+    font-weight: bold;
+}
+
+ol li span {
+    color: red;
+    font-weight: bold;
+    text-decoration: underline;
+}
+ol li:first-child {
+    color: blue;
+    font-weight: bold;
+}
